@@ -135,4 +135,6 @@ The tool can be operated using the following command line options:
 
 This project is licensed under the [MIT License](/LICENSE). Feel free to use, modify, and distribute the code according to the terms of the license.
 
-Update:  06/16/2025 Fixed dead external links in changelog
+
+
+Update:  17 June url is now available and clickable
